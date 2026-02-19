@@ -1,4 +1,4 @@
-# Client — Mini Banking Dashboard (Home Task)
+# Client — Mini Banking Dashboard
 
 Your task is to build a small **React Native** banking-style app that uses the mock API provided in the `backend` folder. This document describes exactly what to implement on each screen and what the goals of the exercise are.
 
