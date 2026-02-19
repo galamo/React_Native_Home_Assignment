@@ -11,7 +11,7 @@
 ## Quick start (for reviewers)
 
 1. **Backend** — See [backend/README.md](./backend/README.md) for install and run. Start the server before the app.
-2. **Client** — See [client/README.md](./client/README.md) for the full task, screens, and goals. The candidate implements the app in the `client` folder.
+2. **Client** — See [client/README.md](./client/README.md) for the full task, screens, and goals. You need to implements the app in the `client` folder.
 
 ## For You
 
