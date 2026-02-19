@@ -1,4 +1,4 @@
-# React Native Fintech Home Task — Mini Banking Dashboard
+# React Native Home Task — Mini Banking Dashboard
 
 ## Repository structure
 
