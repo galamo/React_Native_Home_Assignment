@@ -5,7 +5,7 @@
 
 | Folder | Purpose |
 |--------|---------|
-| **[backend](./backend)** | Mock API server (Node.js). Run this first so the app has data. |
+| **[backend](./backend)** | Mock API server (Node.js).  |
 | **[client](./client)** | Your task: implement the React Native app according to the requirements. |
 
 ## Quick start (for reviewers)
